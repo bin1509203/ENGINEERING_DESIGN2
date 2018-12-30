@@ -1,4 +1,4 @@
-# 이번 글에서는 동아일보와 한겨레신문에서 특정 키워드를 포함하는 기사를 긁어오기 전 예제로 
+# 기상청에서 미세먼지 데이터를 
 # http://cleanair.seoul.go.kr/main.htm : 기상청 미세먼지 사이트
 
 from bs4 import BeautifulSoup # urllib을 통해 받은 RESPONSE(HTML)를 파싱하기 위한 Beautiful Soup
